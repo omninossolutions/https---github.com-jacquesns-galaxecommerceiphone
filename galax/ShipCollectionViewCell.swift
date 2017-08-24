@@ -1,0 +1,15 @@
+//
+//  ShipCollectionViewCell.swift
+//  galax
+//
+//  Created by Jarvics on 02/08/17.
+//  Copyright © 2017 Omninos_Solutions. All rights reserved.
+//
+
+import UIKit
+
+class ShipCollectionViewCell: UICollectionViewCell {
+    @IBOutlet weak var Sizelbl: UILabel!
+    @IBOutlet weak var ImageVieW: UIImageView!
+    
+}
